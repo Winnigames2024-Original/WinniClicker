@@ -1,4 +1,6 @@
 {
   "message": "Update \nS Changes: \nS   !-- Added Events System \nS   !-- Coming soon: Poppy p·ay t··· \nS   !-- Wait for the Poppy p·ay t··· event on January 11, 2026 ...",
-  "version": "2.5"
+  "version": "2.5",
+  "update_apk_file_url": "https://winnigames2024-original.github.io/sites?site=WinniClicker/update-file.apk",
+  "ok_button_text": "Update"
 }
